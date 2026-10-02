@@ -19,6 +19,16 @@ The project focuses on practicing Python fundamentals, object-oriented structure
 - Fullscreen support
 - Minimal graphical interface
 
+## Screenshots
+
+### Gameplay
+
+![Gameplay](screenshots/gameplay_start.png)
+
+### Game Over
+
+![Game Over](screenshots/gameplay_over.png)
+
 ## Technologies Used
 
 - Python
@@ -26,6 +36,7 @@ The project focuses on practicing Python fundamentals, object-oriented structure
 - Git & GitHub
 
 ## How to Run
+- Copy and paste it into any IDE and press F5
 
 ### Requirements
 
